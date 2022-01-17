@@ -38,4 +38,4 @@ sudo pacman -Syu
 **Felix Sanchez** ![@snapcamel]((http://twitter.com/snapcamel "Follow me on twitter")
 
 ## Credits
-**Qtile:** The qtile folder is a modified and more user friendly version from a great programmer https://github.com/antoniosarosi go check his job.
+**Qtile:** The qtile folder is a modified and more user friendly version from https://github.com/antoniosarosi go check his job.
