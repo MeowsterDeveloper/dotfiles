@@ -33,7 +33,7 @@ for this line, you should find it inside a list called *primary_widgets*:
 Once that's done type in your bash ```ip link``` then write your PCI, keep in mind keybindings will not work
 unless you have the same programs that I use and the same configs. You can
 either change keybindings or install the software I use and my config files,
-check out [this section](https://github.com/snapcamel/dotfiles/qtile#Keybindings)
+check out [this section](https://github.com/snapcamel/dotfiles/tree/master/qtile#keybindings)
 for instructions.
 
 ## Structure
