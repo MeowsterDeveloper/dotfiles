@@ -1,4 +1,4 @@
-# My Dotfiles & config
+# My Dotfiles & Config
 ![Screenshot of my desktop](https://i.imgur.com/3pXb6xj.png)
 ## Installation
 
