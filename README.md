@@ -35,7 +35,7 @@ sudo pacman -Syu
 - [Qtile](./qtile)
 
 ## Author
-**Felix Sanchez** ![@snapcamel]((http://twitter.com/snapcamel "Follow me on twitter")
+**Felix Sanchez** ![@fox_thebox]((http://twitter.com/fox_thebox "Follow me on twitter")
 
 ## Credits
 **Qtile:** The qtile folder is a modified and more user friendly version from https://github.com/antoniosarosi go check his job.
